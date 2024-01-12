@@ -82,12 +82,5 @@ class Program
             Console.WriteLine("I'm Sorry, You Failed this semester");
         }
 
-
-        
-
-
-        
-
-
     }
 }

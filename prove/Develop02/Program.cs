@@ -54,20 +54,20 @@ class Program
                 
             }
 
-            if (choice == 2)
+            else if (choice == 2)
             {
                 journal.DisplayAll();
             }
 
-            if (choice == 3)
+            else if (choice == 3)
             {
                 journal.SaveToFile();
             }
-            if (choice == 4)
+            else if (choice == 4)
             {
                 journal.LoadFromFile();
             }
-            if (choice == 5)
+            else if (choice == 5)
             {
                 Console.WriteLine("Thank You for writing Journal today");
                 quit = 1;

@@ -30,7 +30,7 @@ public class ReflectingActivity : Activity
         "What additional strategies or mindfulness techniques could you explore to manage stress in the future?"
     };
 
-    public ReflectingActivity(string name="Reflection Activity", string description="This activity encourages self-reflection, guiding you through prompts to foster mindfulness and deepen your awareness.\nEmbrace each question as a moment for personal growth and gratitude",int duration=5) : base(name,description,duration)
+    public ReflectingActivity(string name="Reflecting Activity", string description="This activity encourages self-reflection, guiding you through prompts to foster mindfulness and deepen your awareness.\nEmbrace each question as a moment for personal growth and gratitude",int duration=5) : base(name,description,duration)
     {
         base.SetName(name);
         base.SetDescription(description);

@@ -1,0 +1,5 @@
+Score:72
+ChecklistGoal:dfd,fgd,30,30,3,3,True
+SimpleGoal:dfgd,hfjg,34,True
+EternalGoal:rewe,htrh,34
+ChecklistGoal:dfsdfs,frege,2,200,2,0,False

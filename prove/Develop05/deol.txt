@@ -1,0 +1,4 @@
+Score:57
+SimpleGoal:ddffgb,bbhg,45,True
+SimpleGoal:fddfgg,tgrt,56,True
+SimpleGoal:dfd,rtrtre,34,True

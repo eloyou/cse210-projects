@@ -47,7 +47,7 @@ public class Order
     {
         foreach (Customer customer in _customers)
         {
-            Console.WriteLine($"Shipping: This will send to {customer.GetName()} ({customer.GetAddress()})\n");
+            Console.WriteLine($"Shipping: This will send to {customer.GetName()} s({customer.GetAddress()})\n");
 
         }
 
